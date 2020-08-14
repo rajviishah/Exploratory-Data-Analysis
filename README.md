@@ -1,3 +1,3 @@
 # Exploratory-Data-Analysis
 
-This repository contains EDA of various datasets.
+This repository contains the EDA of various datasets.
